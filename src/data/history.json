@@ -1,0 +1,23 @@
+[
+    {
+      "role": "Portfolio website",
+      "organisation": "React",
+      "experiences": ["Developed responsive website", "Complete deployment"],
+      "imageSrc": "history/react_project.png"
+    },
+    {
+      "role": "Security Jammer",
+      "organisation": "ML & IoT",
+      "experiences": ["Used IoT", "Intigrated ML for intelligence"],
+      "imageSrc": "history/ML.png"
+    },
+    {
+      "role": "Snake game",
+      "organisation": "JAVA",
+      "experiences": [
+        "Used SQL",
+        "Interactive UI"
+      ],
+      "imageSrc": "history/java_project.png"
+    }
+  ]

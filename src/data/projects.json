@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Book Store",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an web page.",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Security Jammer ",
+      "description": "Build the project which got approval for patent , and also winner in Bharat Forge competition",
+      "skills": ["IoT", "ML"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/varadyadav02/Jammer"
+    }
+  ]
